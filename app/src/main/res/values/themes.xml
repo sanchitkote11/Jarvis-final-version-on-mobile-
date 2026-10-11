@@ -1,0 +1,1 @@
+<resources><style name="Theme.JarvisAudioOrb" parent="Theme.MaterialComponents.DayNight.NoActionBar"><item name="android:statusBarColor">#030712</item><item name="android:navigationBarColor">#030712</item></style></resources>
